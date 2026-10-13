@@ -1,0 +1,9 @@
+# أسرار وجلسات — لا تُرفع أبدًا
+.env
+data/
+*.session
+*.session-journal
+bot.log
+__pycache__/
+venv/
+tmp/
